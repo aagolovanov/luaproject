@@ -12,4 +12,4 @@ end
 
 print("enter a number:")
 a = io.read("*number")        -- read a number
-print(fact(a)
+print("Factorial of that number: " .. fact(a))
